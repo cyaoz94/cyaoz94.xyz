@@ -1,5 +1,5 @@
 ---
-title: Casper's DevOps Journey 🚀
+title: Casper's DevOps Journey
 date: Last Modified 
 permalink: /
 eleventyNavigation:
