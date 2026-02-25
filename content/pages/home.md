@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 
-![Hello, world](/content/images/hello.jpg)
+<img src="/content/images/me.jpg" alt="Casper Ho" class="profile-photo"/>
 
 ## About Me
 

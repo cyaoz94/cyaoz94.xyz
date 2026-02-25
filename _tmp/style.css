@@ -637,6 +637,16 @@ img:hover {
   border-color: rgba(243, 244, 246, var(--tw-border-opacity))
 }
 
+img.profile-photo {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  height: 12rem !important;
+  width: 12rem !important;
+  border-radius: 9999px !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
 /* Overrides for Tailwind Typography prose class */
 
 .dark .prose a {
